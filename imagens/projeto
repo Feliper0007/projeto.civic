@@ -1,1 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Como surgiu o Honda Civic?</title>
+<link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="estilo/style.CSS">
+</head>
+<body>
+
+<header>
+<h1>Curiosidades Automotivas</h1>
+<p>Tudo aquilo que você sempre quis saber sobre o mundo dos carros, em um único lugar</p>
+</header>
+
+<nav>
+<a href="#">Home</a>
+<a href="#">História</a>
+<a href="#">Contato</a>
+</nav>
+
+<main>
+<article>
+<h1>A História do Honda Civic</h1>
+
+<p>Provavelmente você conhece o <strong>Honda Civic</strong>, um dos carros mais famosos e admirados do mundo. Fabricado pela montadora japonesa <strong>Honda</strong>, ele conquistou milhões de pessoas graças à sua confiabilidade, economia, desempenho e design marcante. Mas você conhece a história desse automóvel que se tornou uma referência no mercado mundial? Acompanhe este artigo para descobrir como tudo começou.</p>
+
+<h2>O nascimento do Civic</h2>
+
+<p>O <strong>Honda Civic</strong> foi lançado em 1972, no Japão, em uma época em que o mundo precisava de carros econômicos e eficientes. A Honda desenvolveu um veículo compacto, prático e acessível, ideal para o uso diário nas cidades.</p>
+
+<p>O modelo chamou a atenção por oferecer bom aproveitamento do espaço interno, baixo consumo de combustível e facilidade de condução. Essas características ajudaram o Civic a conquistar novos mercados e a se tornar conhecido internacionalmente.</p>
+
+<picture>
+<source media="(min-width:670px)" srcset="imagens/civic-antigo.png">
+<img src="529fbb736b4dea2048006bd555029dbe.jpg" alt="Primeira geração do Honda Civic">
+</picture>
+
+<p>A primeira geração marcou o início de uma trajetória de sucesso. Ao longo dos anos, o Civic passou por diversas transformações, acompanhando as mudanças na tecnologia e nas preferências dos motoristas.</p>
+
+<h2>A evolução de uma lenda</h2>
+
+<p>Com o passar das gerações, o <strong>Honda Civic</strong> ganhou motores mais modernos, novos equipamentos de segurança e um visual cada vez mais sofisticado. O carro deixou de ser apenas um modelo compacto e econômico para também conquistar quem procurava esportividade e desempenho.</p>
+
+<picture>
+<source media="(max-width:670px)" srcset="imagens/civic-esportivo-pq.jpg">
+<img src="images.jpeg" alt="Honda Civic de uma geração mais moderna">
+</picture>
+
+<p>Uma das características que ajudaram a popularizar o Civic foi a variedade de versões. Dependendo da geração e do mercado, o modelo ofereceu diferentes motorizações e configurações, atendendo tanto quem buscava economia quanto quem preferia uma condução mais esportiva.</p>
+
+<p>As versões esportivas, especialmente as preparadas pela divisão <strong>Honda Type R</strong>, tornaram-se famosas entre os entusiastas de automóveis por seu desempenho, comportamento dinâmico e motores de alta rotação.</p>
+
+<img src="imagens/civic-type-r.png" alt="Honda Civic Type R" class="pequena">
+
+<p>O Civic também conquistou espaço na cultura automotiva, aparecendo em competições, encontros de carros e projetos de personalização. Sua popularidade entre os apaixonados por carros ajudou a transformar o modelo em um verdadeiro ícone.</p>
+
+
+
+<aside>
+<h3>Quer aprender mais?</h3>
+
+<p>O Honda Civic já passou por várias gerações desde seu lançamento. Cada uma trouxe mudanças importantes no design, na mecânica e nos equipamentos.</p>
+
+<ul>
+<li>1972 — Primeira geração: início da história do Civic.</li>
+<li>1979 — Segunda geração: carroceria maior e melhorias mecânicas.</li>
+<li>1983 — Terceira geração: novo design e versões esportivas.</li>
+<li>1987 — Quarta geração: avanços nos motores e na suspensão.</li>
+<li>1991 — Quinta geração: design marcante e grande popularidade.</li>
+<li>1995 — Sexta geração: novas tecnologias e versões esportivas.</li>
+<li>2000 — Sétima geração: mais espaço interno e conforto.</li>
+<li>2005 — Oitava geração: visual moderno e painel diferenciado.</li>
+<li>2011 — Nona geração: atualizações no design e nos equipamentos.</li>
+<li>2015 — Décima geração: linhas mais agressivas e novos motores turbo em algumas versões.</li>
+<li>2021 — Décima primeira geração: visual mais sofisticado e tecnologias atualizadas.</li>
+</ul>
+
+<p>Ao longo de sua história, o Civic também recebeu versões híbridas em diferentes mercados, acompanhando a evolução da indústria automotiva e a busca por maior eficiência energética.</p>
+
+<p>Para conhecer mais detalhes sobre os modelos, tecnologias e novidades, visite o site oficial da <a href="https://www.honda.com/" target="_blank" rel="noopener noreferrer" class="externo">Honda</a>.</p>
+</aside>
+
+<p>E é isso! Esperamos que você tenha gostado de conhecer um pouco mais sobre a história do <strong>Honda Civic</strong>, um carro que atravessou gerações e conquistou fãs em diferentes partes do mundo.</p>
+
+</article>
+</main>
+
+<footer>
+<p>Site criado para compartilhar curiosidades sobre o mundo automotivo.</p>
+</footer>
+
+</body>
+</html>
 
