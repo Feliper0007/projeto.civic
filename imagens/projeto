@@ -33,8 +33,8 @@
 <p>O modelo chamou a atenção por oferecer bom aproveitamento do espaço interno, baixo consumo de combustível e facilidade de condução. Essas características ajudaram o Civic a conquistar novos mercados e a se tornar conhecido internacionalmente.</p>
 
 <picture>
-<source media="(min-width:670px)" srcset="imagens/civic-antigo.png">
-<img src="529fbb736b4dea2048006bd555029dbe.jpg" alt="Primeira geração do Honda Civic">
+<source media="(min-width:670px)" srcset="logo_da_Honda">
+<img src="imagens/529fbb736b4dea2048006bd555029dbe.jpg" alt="Primeira geração do Honda Civic" width="500px"> 
 </picture>
 
 <p>A primeira geração marcou o início de uma trajetória de sucesso. Ao longo dos anos, o Civic passou por diversas transformações, acompanhando as mudanças na tecnologia e nas preferências dos motoristas.</p>
@@ -52,7 +52,7 @@
 
 <p>As versões esportivas, especialmente as preparadas pela divisão <strong>Honda Type R</strong>, tornaram-se famosas entre os entusiastas de automóveis por seu desempenho, comportamento dinâmico e motores de alta rotação.</p>
 
-<img src="imagens/civic-type-r.png" alt="Honda Civic Type R" class="pequena">
+<img src="imagens/ci01-1 (1).jpg" alt="Honda Civic Type R" class="pequena" width="500px">
 
 <p>O Civic também conquistou espaço na cultura automotiva, aparecendo em competições, encontros de carros e projetos de personalização. Sua popularidade entre os apaixonados por carros ajudou a transformar o modelo em um verdadeiro ícone.</p>
 
@@ -86,11 +86,4 @@
 
 </article>
 </main>
-
-<footer>
-<p>Site criado para compartilhar curiosidades sobre o mundo automotivo.</p>
-</footer>
-
-</body>
-</html>
-
+imagens/ci01-1 (1).jpg
